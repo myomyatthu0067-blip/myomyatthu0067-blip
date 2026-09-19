@@ -10,9 +10,11 @@ I'm currently learning programming and building my skills in software developmen
 
 <h2> 🌱 Currently Learning </h2>
 
--Web Development
--Java
--SQL & Relational Databases
+<ul>
+  <li> Web Development </li>
+  <li> Java </li>
+  <li> SQL & Relational Databases </li>
+</ul>
 
 <h2>🎯 Goals </h2>
 
