@@ -4,14 +4,16 @@ Hi, I'm Myo Myat Thu 👋
 
 I'm currently learning programming and building my skills in software development.
 
-🛠️ Skills & Technologies
+🛠️ Skills & Technologies 
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,git,github" /> </p>
+<p> <img width="50px" src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,git,github" /> </p>
 
 🌱 Currently Learning
+Web Development
 Java
 SQL & Relational Databases
-Web Development
+
+
 🎯 Goals
 
 To become a better developer by building projects and learning new technologies.
