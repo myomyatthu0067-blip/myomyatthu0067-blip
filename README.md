@@ -6,15 +6,15 @@ I'm currently learning programming and building my skills in software developmen
 
 🛠️ Skills & Technologies 
 
-<p> <img width="280px" src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,git,github" /> </p>
+<p> <img width="290px" src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,git,github" /> </p>
 
 🌱 Currently Learning
 
-Web Development
+-Web Development
 
-Java
+-Java
 
-SQL & Relational Databases
+-SQL & Relational Databases
 
 
 🎯 Goals
