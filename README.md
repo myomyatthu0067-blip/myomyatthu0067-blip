@@ -11,6 +11,9 @@
 
 - ☕ Java
 - 🗄️ SQL / Relational Databases
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 - 🐙 Git & GitHub
 
 ### 📫 Connect with Me
