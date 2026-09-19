@@ -1,21 +1,19 @@
-# Hi, I'm Myo Myat Thu 👋
+Hi, I'm Myo Myat Thu 👋
 
-💻 **Aspiring Developer**
+💻 Aspiring Developer
 
-- 🌱 I’m currently learning **Java & Database**
-- 🔭 I’m working on improving my **programming skills**
-- 📚 Interested in **Software Development & Technology**
-- 🗄️ Currently exploring **Relational Database Concepts**
+I'm currently learning programming and building my skills in software development.
 
-### 🛠️ Skills & Technologies
+🛠️ Skills & Technologies
 
-- ☕ Java
-- 🗄️ SQL / Relational Databases
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🐙 Git & GitHub
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,git,github" /> </p>
 
-### 📫 Connect with Me
+🌱 Currently Learning
+Java
+SQL & Relational Databases
+Web Development
+🎯 Goals
 
-Feel free to explore my repositories and follow my learning journey! 🚀
+To become a better developer by building projects and learning new technologies.
+
+⭐ Thanks for visiting my profile!
