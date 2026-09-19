@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Myo Myat Thu 👋
 
-<!--
-**myomyatthu0067-blip/myomyatthu0067-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Developer**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java & Database**
+- 🔭 I’m working on improving my **programming skills**
+- 📚 Interested in **Software Development & Technology**
+- 🗄️ Currently exploring **Relational Database Concepts**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- ☕ Java
+- 🗄️ SQL / Relational Databases
+- 🐙 Git & GitHub
+
+### 📫 Connect with Me
+
+Feel free to explore my repositories and follow my learning journey! 🚀
