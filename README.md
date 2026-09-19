@@ -14,7 +14,7 @@ I'm currently learning programming and building my skills in software developmen
 -Java
 -SQL & Relational Databases
 
-<h2>🎯 Goals <h2>
+<h2>🎯 Goals </h2>
 
 To become a better developer by building projects and learning new technologies.
 
