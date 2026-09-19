@@ -18,6 +18,6 @@ To become a better developer by building projects and learning new technologies.
 
 <h2> 🛠️ Skills & Technologies </h2>
 
-<p> <img width="290px" align="center" src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,git,github" /> </p>
+<p> <img width="290px" src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,git,github" /> </p>
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! 
