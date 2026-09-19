@@ -1,4 +1,4 @@
-Hi, I'm Myo Myat Thu 👋
+<h1>Hi, I'm Myo Myat Thu 👋</h1>
 
 💻 Aspiring Developer
 
